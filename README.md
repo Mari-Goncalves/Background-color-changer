@@ -4,4 +4,4 @@ Input type color, where the color chosen by the user will be the background colo
 
 Access here: https://mari-goncalves.github.io/Background-color-changer/
 
-![image](https://user-images.githubusercontent.com/120994185/236709337-ecc4e1e2-b0f0-41bc-b067-8d4a4019fbd7.png)
+![image](https://user-images.githubusercontent.com/120994185/236849030-eafe7399-8b1e-41ab-8964-ba81ddbd858f.png)
