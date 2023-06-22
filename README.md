@@ -12,7 +12,7 @@
 ![Frontend](https://img.shields.io/badge/Dinamic-Javascript-yellow?style=for-the-badge&logo=appveyor)
 
 Input type color, where the color chosen by the user will be the background color of the screen.
-* *Project deploy* - https://mari-goncalves.github.io/Background-color-changer/
+* *Acess here* - https://mari-goncalves.github.io/Background-color-changer/
 
 <br>
 
